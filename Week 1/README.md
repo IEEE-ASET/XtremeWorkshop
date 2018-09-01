@@ -16,7 +16,7 @@ A [binary search](https://www.geeksforgeeks.org/binary-search/) is when you star
 
 * [ Help Fredo ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
-  > [Solutiion]()
+  > [Solutiion](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Help%20Fredo.cpp)
  
 * [ AGGRCOW - Aggressive cows ](https://www.spoj.com/problems/AGGRCOW/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
