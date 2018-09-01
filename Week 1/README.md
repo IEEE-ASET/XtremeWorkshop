@@ -11,13 +11,13 @@ A [binary search](https://www.geeksforgeeks.org/binary-search/) is when you star
 ## Questions discussed
 
 * [ Discover the Monk ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/)
-  *Hint*  
+  [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt) 
   > Solution
 
 * [ Help Fredo ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
-  *Hint*  
+  [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
   > Solutiion
  
 * [ AGGRCOW - Aggressive cows ](https://www.spoj.com/problems/AGGRCOW/)
-  *Hint*  
+  [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
   > Solution
