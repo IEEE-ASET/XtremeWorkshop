@@ -12,7 +12,7 @@ A [binary search](https://www.geeksforgeeks.org/binary-search/) is when you star
 
 * [ Discover the Monk ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt) 
-  > [Solution]()
+  > [Solution](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Discover%20The%20Monk.cpp)
 
 * [ Help Fredo ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
