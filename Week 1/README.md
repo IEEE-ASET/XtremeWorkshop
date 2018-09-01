@@ -12,12 +12,12 @@ A [binary search](https://www.geeksforgeeks.org/binary-search/) is when you star
 
 * [ Discover the Monk ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt) 
-  > Solution
+  > [Solution]()
 
 * [ Help Fredo ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
-  > Solutiion
+  > [Solutiion]()
  
 * [ AGGRCOW - Aggressive cows ](https://www.spoj.com/problems/AGGRCOW/)
   [*Hint*](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/Hint.txt)  
-  > Solution
+  > [Solution](https://github.com/IEEE-ASET/XtremeWorkshop/blob/master/Week%201/AGGRCOW.cpp)
