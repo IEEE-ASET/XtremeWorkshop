@@ -1,0 +1,30 @@
+
+Q)Discover the Monk
+HINT: Use Binary search
+
+Q)Help Fredo
+
+HINT 1:
+The given condition will be satisfied for all values above the x that we need to find 
+and will not be satisfied for all values below it.
+
+HINT 2: 
+USE log!  here range of a[i] is upto 10^10 so if array elements are 10^9*10^8.....
+product will be very very large!!  
+
+Q) AGGRCOW
+
+HINT 1:
+
+Can you write code to answer the following question: Check whether it is possible to place cows 
+in a way so that the distance between two cows is at least X.
+
+HINT 2:
+
+This can be done in O(N).
+
+HINT 3:
+
+According to the question I have to find the largest X. Doesn't it look like that we can use binary search? 
+Indeed, smaller the X greater is the chance of it being a valid configuration. Doesn't this function 
+look to be monotonic? Does it change it's value(possible or not possible) from interval to interval?
